@@ -12,4 +12,4 @@ let person ={
         return `My name is ${person.first_name} ${person.last_name}`
     }
 }
-console.log(person)
+console.log(person);
