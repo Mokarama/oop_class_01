@@ -25,7 +25,7 @@ person2.getName=()=>{
     return  `My full name is ${first_name} ${last_name}`
 }
 
-console.log(person2)
+console.log(person2);
 
 
 const person3=Object();
