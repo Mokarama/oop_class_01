@@ -13,3 +13,16 @@ let person ={
     }
 }
 console.log(person);
+
+
+let person2={
+    first_name:"Shanta",
+    last_name:"Mim",
+    age:34,
+    isMuslim:true,
+    getName:()=>{
+        return `My full name is ${person2.first_name} ${person2.last_name}`
+    }
+}
+console.log(person2);
+console.log(person2.getName())
