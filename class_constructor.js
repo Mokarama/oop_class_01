@@ -9,8 +9,6 @@ class person{
 
 let personObj=new person();
 
-
-
 //constructor paramiter diye kivabe property change kora jay
 /*** 
  * 
