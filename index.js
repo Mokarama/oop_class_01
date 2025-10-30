@@ -1,7 +1,6 @@
 //By object literal
 //what is object 
 //how to write object using object literal
-
 let person ={
     first_name:"Shanta",
     last_name:"Mim",
@@ -13,7 +12,6 @@ let person ={
     }
 }
 console.log(person);
-
 
 let person2={
     first_name:"Shanta",
